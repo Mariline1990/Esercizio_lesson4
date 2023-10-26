@@ -1,0 +1,135 @@
+/* IMPOSTAZIONI GENERALI */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+    background-image: url(sfondo.png);
+    margin-top: 30px;
+    line-height: 1.5;
+}
+p {
+   
+    margin-bottom: 30px;
+}
+
+
+#container {
+    width: 90%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+/* HEADER */
+header {
+
+    line-height: 2;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-image: linear-gradient(to top, rgb(14, 42, 70), rgb(0, 109, 160));
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.589);
+}
+header a {
+    color: white;
+}
+
+#container h1 {
+    line-height: 4.0;
+   
+}
+/* MAIN */
+main {
+    background-color: white;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.589);
+    width: 90%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+article {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+article h1 {
+    font-size: 2.0rem;
+    font-style: bold;line-height: 1.5;
+    padding-bottom: 20px;
+}
+h3 {
+    text-align: center;
+    te
+}
+.color_violet {
+    
+    color: rgb(110, 44, 110);
+}
+ol {
+    list-style-type: decimal;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    
+
+}
+ul {
+    list-style-type: disc;
+    margin-left: 40px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+h3 {
+    font-size: 1.3rem;
+}
+
+#grey_item {
+    background-color: rgb(198, 198, 204);
+    border-radius: 3px;
+
+}
+/* TABELLE */
+table {
+    border-bottom: 1px solid gray ;
+}
+th{
+       background-color: blue;
+       padding-left: 20px;
+       padding-top: 20px;
+       padding-bottom: 20px;
+}
+td {
+        padding-left: 25px;
+        padding-top: 30px;
+}
+
+iframe {
+    width: 30%
+    
+}
+
+video {
+    
+    border-radius: 20px;
+   
+    
+}
+footer {
+    margin-top: 40px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-image: linear-gradient(to top, rgb(14, 42, 70), rgb(0, 109, 160));
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.589);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
